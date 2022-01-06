@@ -11,7 +11,7 @@
 
 📂 Current client is [KulturIT](https://github.com/KulturIT), doing UX/UI for virtual exhibitions, digital museums, CMS'es and various publishing / admin systems
 
-📁 Past clients:
+📁 Recent clients:
 
 - 🚗 UX/UI/brand revamp for [Teoritentamen](https://teoritentamen.no)
 - ❄️ UX/UI/brand consulting full time for [ice](https://ice.no)
