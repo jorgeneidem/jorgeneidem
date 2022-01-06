@@ -20,6 +20,6 @@
 
 - Full time designer in [NRK TV](https://tv.nrk.no), [Designit](https://designit.no), [Scandinavian Design Group](https://sdg.no), [Grandpeople](http://grandpeople.no), [Havnevik](https://havnevik.no)
 
-🏫 Education
+🏫 Education:
 
 - [UiB KMD](https://kmd.uib.no/no/studier/institutt-for-design), [NHH Executive](https://www.nhh.no/en/executive/)
