@@ -2,18 +2,22 @@
 
 ## I'm a designer who codes
 
-💼 Current role is UX/UI consulting through Digtra.io, my own wholly-owned LLC
+💼 UX/UI consultant @ [Digtra](https://digtra.io), my wholly-owned LLC
 
-📂 Current client
+📊 Co-owner @ [Folq](https://github.com/folq), named Norway's fastest growing tech company 2021 in Deloitte's Technology Fast 50
 
-- 🖼️ UX/UI work for kulturit.no, creating virtual exhibitions, digital museums, CMS-features, admin interfaces and various dashboards.
+🧠 Member @ [BrainBase](https://www.brainbase.no/), a network of 600+ experienced consultants in the technology industry
 
-📁 Past clients
+🕚️ Current passion project is building a personal website with [11ty](https://github.com/11ty/eleventy) and [Sanity](https://github.com/sanity-io)
+
+📂 Current client is [KulturIT](https://github.com/KulturIT), doing UX/UI for virtual exhibitions, digital museums, CMS'es and various publishing / admin systems.
+
+📁 Past clients:
 
 - 🚗 UX/UI/brand revamp for [Teoritentamen](https://teoritentamen.no)
 - ❄️ UX/UI/brand consulting full time for [ice](https://ice.no)
 
-⌛️ Previous positions
+⌛️ Past positions:
 
 - Full time designer in [NRK TV](https://tv.nrk.no), [Designit](https://designit.no), [Scandinavian Design Group](https://sdg.no), [Grandpeople](http://grandpeople.no), [Havnevik](https://havnevik.no)
 
