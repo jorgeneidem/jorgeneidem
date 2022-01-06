@@ -8,7 +8,7 @@
 
 🧠 Member @ [BrainBase](https://www.brainbase.no/), a network of 600+ experienced consultants in the technology industry
 
-🕚️ Current passion project is building a personal website with [11ty](https://github.com/11ty/eleventy) and [Sanity](https://github.com/sanity-io)
+🕚️ Current passion project is building a blazing fast personal website with [11ty](https://github.com/11ty/eleventy) and [Sanity](https://github.com/sanity-io) aiming for the [leaderboards](https://www.11ty.dev/speedlify/)
 
 📂 Current client is [KulturIT](https://github.com/KulturIT), doing UX/UI for virtual exhibitions, digital museums, CMS'es and various publishing / admin systems.
 
