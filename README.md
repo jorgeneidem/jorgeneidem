@@ -1,13 +1,12 @@
 # Hello world
-## I'm a designer who codes
 
-💼 UX/UI consultant @ [Digtra](https://digtra.io), my wholly-owned LLC
+💼 UX/UI-designer @ [Digtra](https://digtra.io)
 
 📊 Co-owner @ [Folq](https://github.com/folq), named Norway's fastest growing tech company 2021 in Deloitte's Technology Fast 50
 
 🧠 Member @ [BrainBase](https://www.brainbase.no/), a network of 600+ experienced consultants in the technology industry
 
-🕚️ Current passion project is building a blazing fast personal website with [11ty](https://github.com/11ty/eleventy) and [Sanity](https://github.com/sanity-io) aiming for the [leaderboards](https://www.11ty.dev/speedlify/)
+🕚️ Current personal project is building a fast personal website with [11ty](https://github.com/11ty/eleventy) 
 
 📂 Current client is [KulturIT](https://github.com/KulturIT), doing UX/UI for virtual exhibitions, digital museums, CMS'es and various publishing / admin systems
 
