@@ -1,6 +1,6 @@
 # Hello world
 
-💼 UX/UI-designer @ [Independent](https://jorgeneidem.no)
+💼 UX/UI-designer @ [jorgeneidem.no](https://jorgeneidem.no)
 
 📊 Co-owner @ [Folq](https://github.com/folq), named Norway's fastest growing tech company 2021 in Deloitte's Technology Fast 50
 
